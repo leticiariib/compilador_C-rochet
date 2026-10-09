@@ -34,12 +34,12 @@ Ao executar, o programa:
 2. Gera automaticamente um arquivo `.crt.tokens` com o reconhecimento de todos os tokens
 
 ## Programas Exemplo
-Exemplo 1: entrada e saída (calcula média de duas notas)
-Exemplo 2: condicional (verifica se número é positivo/negativo/zero)
-Exemplo 3: repetição — soma os números de 1 a 5 com for 
+- Exemplo 1: entrada e saída (calcula média de duas notas)
+- Exemplo 2: condicional (verifica se número é positivo/negativo/zero)
+- Exemplo 3: repetição — soma os números de 1 a 5 com for 
 
 ## Estrutura dos Arquivos
-
+```text 
 crochet/
 ├── lexer.l ← Analisador Léxico 
 ├── parser.y ← Analisador Sintático 

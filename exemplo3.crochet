@@ -1,0 +1,14 @@
+// Programa 3: Estrutura de Repeticao
+// Imprime os numeros de 1 a 5 e calcula a soma
+
+fio i;
+fio soma;
+
+soma = 0;
+
+volta (i = 1; i <= 5; i = i + 1) correntinha
+    bordar("Numero: ", i);
+    soma = soma + i;
+cortarfio
+
+bordar("A soma de 1 a 5 e: ", soma);

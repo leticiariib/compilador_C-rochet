@@ -1,0 +1,17 @@
+/* Programa 2: Estrutura Condicional
+Verifica se um numero e positivo, negativo ou zero */
+
+fio numero;
+
+bordar("Digite um numero: ");
+pescar(numero);
+
+medir (numero > 0) correntinha
+    bordar("O numero e positivo");
+cortarfio
+avesso medir (numero < 0) correntinha
+    bordar("O numero e negativo");
+cortarfio
+avesso correntinha
+    bordar("O numero e zero");
+cortarfio

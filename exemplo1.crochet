@@ -1,0 +1,16 @@
+// Programa 1: Entrada e Saida
+// Calcula a media de duas notas
+
+fio nota1;
+fio nota2;
+barbante media;
+
+bordar("Digite a primeira nota: ");
+pescar(nota1);
+
+bordar("Digite a segunda nota: ");
+pescar(nota2);
+
+media = (nota1 + nota2)/2;
+
+bordar("A media das notas e: ", media);

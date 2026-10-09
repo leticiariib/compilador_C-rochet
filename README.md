@@ -8,6 +8,8 @@ C-rochet é uma linguagem de programação didática baseada na sintaxe da lingu
 - `volta` equivale a `for`
 - `correntinha` equivale a `{` e `cortarfio` equivale a `}`
 
+Mais detalhes: https://docs.google.com/document/d/1zvvzbgBkcYU7ZZjI4PZfLO1y2hMLUgkt2_dFNlCePeM/edit?usp=sharing 
+
 ## Pré-requisitos
 - WSL (Windows Subsystem for Linux) com Ubuntu, ou Linux
 - flex, bison e gcc instalados
